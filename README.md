@@ -1,7 +1,7 @@
-# Fugindo da Torre
+# Cartola 2K25
 
 ### Tema do Jogo:
-**[Um jogo de labirinto onde o jogador precisa escapar da torre.]**
+**[Campo de futebol]**
 
 ### Área do Projeto:
 **[Técnico]**
@@ -9,9 +9,9 @@
 ## Integrantes:
 | Nome                 | GitHub                                                            | Contato                     |
 |----------------------|-------------------------------------------------------------------|-----------------------------|
-| Luiz Henrique        |[github.com/isabellafalcao](https://github.com/isabellafalcao)     |[isabellarf0300808@gmail.com]|
-| Lucas Lima           |[github.com/mhlarroza](https://github.com/Lucaslimaxz)               |[malenaa2905@gmail.com]      |
-| Enrique rodrigues    |[github.com/ThaiseSouza](https://github.com/ThaiseSouza)           |[thaisevillasouza@gmail.com] |
+| Luiz Henrique        |[github.com/luizhenrique830](https://github.com/luizhenrique830)     |[luizhenriqueluzesilva@gmail.com]|
+| Lucas Lima           |[github.com/Lucaslimaxz](https://github.com/Lucaslimaxz)               |[lucasdelimaduarte1@gmail.com]      |
+| Enrique rodrigues    |[github.com/Enriquerodrigues09](https://github.com/Enriquerodrigues09)           |[enriqueboleiro@gmail.com] |
 
 # Descrição Resumida do Projeto:
 [Um jogo onde o personagem começa na torre e utilizando as setas de direção, o jogador irá mover o personagem pelo labirinto até escapar e assim surgirá uma tela de vitória.]
