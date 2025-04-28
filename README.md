@@ -14,10 +14,10 @@
 | Enrique rodrigues    |[github.com/Enriquerodrigues09](https://github.com/Enriquerodrigues09)           |[enriqueboleiro@gmail.com] |
 
 # Descrição Resumida do Projeto:
-[Um jogo onde o personagem começa na torre e utilizando as setas de direção, o jogador irá mover o personagem pelo labirinto até escapar e assim surgirá uma tela de vitória.]
+[Um jogo jogo de futebol que busca trazer entretenimento do pública]
 
 # Como Jogar:
-[Use as setas UP, DOWN, RIGHT e LEFT para mover a Rapunzel dentro do labirinto e escapar da torre.]
+[Use a setinha para o jogador desviar e espaço para pular.]
 
 ## Ferramentas Utilizadas:
 - **Linguagens**: [HTML, CSS, JavaScript]
@@ -26,7 +26,7 @@
 
 # Como rodar o jogo:
 ### Clone o repositório
-git clone *link do repositorio*
+git clone *https://github.com/Lucaslimaxz/jogo-tec*
 ### Acesse a pasta do projeto
 cd nome-do-jogo
 ### Abra um arquivo index.html em um navegador
