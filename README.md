@@ -14,7 +14,7 @@
 | Enrique rodrigues    |[github.com/Enriquerodrigues09](https://github.com/Enriquerodrigues09)           |[enriqueboleiro@gmail.com] |
 
 # Descrição Resumida do Projeto:
-[Um jogo jogo de futebol que busca trazer entretenimento do pública]
+[Um jogo jogo de futebol que busca trazer entretenimento do público]
 
 # Como Jogar:
 [Use a setinha para o jogador desviar e espaço para pular.]
