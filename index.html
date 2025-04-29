@@ -1,19 +1,66 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
+<html lang="pt-br">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Jogo Dino</title>
-  <link rel="stylesheet" href="style.css">
+  <title>Bola Cartola 2K25</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: Arial, sans-serif;
+      background-image: url(festa2.jpg);
+      background-size: 100%;
+      color: #fff;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .container {
+      text-align: center;
+    }
+
+    h1 {
+      font-size: 3em;
+      margin-bottom: 20px;
+    }
+
+    .start-btn {
+      padding: 15px 40px;
+      font-size: 1.2em;
+     background-color: black;
+     background-size: 150%;
+      border: none;
+      border-radius: 8px;
+      color: rgb(255, 255, 255);
+      cursor: pointer;
+      transition: background 0.3s;
+    }
+
+    .start-btn:hover {
+      background-color: #013b06;
+    }
+  </style>
 </head>
 <body>
-  <div id="game">
-    <div id="dino"></div>
-    <div id="cactus"></div>
-    <div id="score">Pontuação: 0</div> <!-- Elemento para exibir a pontuação -->
+
+  <div class="container">
+    <h1>Bola Cartola 2K25</h1>
+    <button class="start-btn" onclick="index.html">COMEÇAR</button>
   </div>
-  
-  <script src="script.js"></script>
+
+  <script>
+    function startGame() {
+      console.log("Jogo iniciado!");
+    }
+  </script>
+
 </body>
 </html>
-
